@@ -6,6 +6,6 @@ import './index.css'
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />
-    <div>Something here</div>
+    <div>Something here 1.4</div>
   </StrictMode>,
 )
