@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div>
-        Merge commit 1.6
+        Merge commit 1.8
       </div>
       <h1>Vite + React</h1>
     </>
